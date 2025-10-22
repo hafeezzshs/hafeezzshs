@@ -13,7 +13,7 @@
 
 <h2 align="center">💫 About Me</h2>
 
-<img height="300" width="275" align="right" src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif">
+<img style="width:280px; height:290px; border-radius:12px" align="right" src="./images/iron-man.gif">
 
 <p align="left">
 🌱 I’m a self-taught developer from India 🇮🇳 exploring the <strong>DevOps journey</strong> — blending development, deployment, and cloud to build things that <i>just work</i>.
