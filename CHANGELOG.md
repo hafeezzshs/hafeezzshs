@@ -11,3 +11,10 @@ All notable changes to this project will be documented in this file.
 - Initial profile layout
 - Added banner and intro section
 - Added profile version footer
+
+## [v1.1.0] - 2025-10-22
+
+### Added
+- Introduced the **About Me** section with personal intro and visuals.
+- Added right-aligned GIF to enhance visual appeal.
+- Improved section formatting and readability.
