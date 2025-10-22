@@ -18,3 +18,8 @@ All notable changes to this project will be documented in this file.
 - Introduced the **About Me** section with personal intro and visuals.
 - Added right-aligned GIF to enhance visual appeal.
 - Improved section formatting and readability.
+
+## [v1.1.1] - 2025-10-22
+
+### Fixed
+- Improved layout and visual balance in **About Me** section (adjusted GIF size and spacing) 
