@@ -30,3 +30,11 @@ All notable changes to this project will be documented in this file.
 - Introduced **Tech Stack** section showcasing tools and technologies used.
 - Organized icons in an **inverted triangle layout** for better visual flow.
 - Integrated badges using **skillicons** for modern and consistent visuals.
+
+## [v1.2.1] - 2025-10-23
+
+### Added
+- Added `target="_blank"` attribute to open tech stack icons in a new tab *(note: GitHub markdown may not support it fully)*
+
+### Fixed
+- Resolved inconsistent spacing between tech stack icons for improved layout and alignment
