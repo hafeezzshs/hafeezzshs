@@ -23,3 +23,10 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 - Improved layout and visual balance in **About Me** section (adjusted GIF size and spacing) 
+
+## [v1.2.0] - 2025-10-23
+
+### Added
+- Introduced **Tech Stack** section showcasing tools and technologies used.
+- Organized icons in an **inverted triangle layout** for better visual flow.
+- Integrated badges using **skillicons** for modern and consistent visuals.
