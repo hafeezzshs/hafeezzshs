@@ -81,3 +81,23 @@
 </p>
 
 </div>
+
+---
+
+<h2 align="center">📂 Featured Repositories</h2>
+
+<div align="center">
+
+<a href="https://github.com/hafeezzshs/devops-journey"><img align="center" width="355" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=hafeezzshs&repo=devops-journey&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="devops-journey"></a>
+<a href="https://github.com/hafeezzshs/aws-ci-cd-pipeline"><img align="center" width="355" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=hafeezzshs&repo=aws-ci-cd-pipeline&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="aws-ci-cd-pipeline"></a>
+
+</div>
+
+<!-- <br> -->
+
+<div align="center">
+
+<a href="https://github.com/hafeezzshs/devops-ci-cd-projects"><img align="center" width="355" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=hafeezzshs&repo=devops-ci-cd-projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="devops-ci-cd-projects"></a>
+<a href="https://github.com/hafeezzshs/k8s-eks-2048-app"><img align="center" width="355" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=hafeezzshs&repo=k8s-eks-2048-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="k8s-eks-2048-app"></a>
+
+</div>
