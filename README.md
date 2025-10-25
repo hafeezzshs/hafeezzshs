@@ -61,23 +61,23 @@
 
 <!-- Row 3 (5 icons) -->
 <p>
-  <a target="_blank" href="https://nginx.org/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=nginx"/>
-  <a target="_blank" href="https://www.mysql.com/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=mysql"/>
-  <a target="_blank" href="https://www.postgresql.org/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql"/>
-  <a target="_blank" href="https://www.notion.com/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=notion"/>
-  <a target="_blank" href="https://code.visualstudio.com/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/>
+  <a target="_blank" href="https://nginx.org/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=nginx"/></a>
+  <a target="_blank" href="https://www.mysql.com/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=mysql"/></a>
+  <a target="_blank" href="https://www.postgresql.org/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql"/></a>
+  <a target="_blank" href="https://www.notion.com/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=notion"/></a>
+  <a target="_blank" href="https://code.visualstudio.com/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/></a>
 </p>
 
 <!-- Row 4 (3 icons) -->
 <p>  
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=js"/>
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=html"/></a>
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=css"/></a>
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=js"/></a>
 </p>
 
 <!-- Row 5 (1 icon) -->
 <p>
-  <a target="_blank" href="https://vercel.com/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=vercel"/>
+  <a target="_blank" href="https://vercel.com/"><img hspace="10" src="https://go-skill-icons.vercel.app/api/icons?i=vercel"/></a>
 </p>
 
 </div>
