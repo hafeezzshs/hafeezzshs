@@ -38,3 +38,8 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 - Resolved inconsistent spacing between tech stack icons for improved layout and alignment
+
+## [v1.2.2] - 2025-10-25
+
+### Fixed
+- Added missing closing `</a>` tags in **Tech Stack** section to prevent unwanted clickable areas and ensure proper HTML structure
