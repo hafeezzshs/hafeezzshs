@@ -43,3 +43,8 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 - Added missing closing `</a>` tags in **Tech Stack** section to prevent unwanted clickable areas and ensure proper HTML structure
+
+## [v1.3.0] - 2025-10-25
+
+### Added
+- **Featured Repositories** section showcasing my top projects with interactive **GitHub repo cards** for better profile visibility.
