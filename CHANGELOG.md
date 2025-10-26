@@ -55,3 +55,10 @@ All notable changes to this project will be documented in this file.
 - Introduced **GitHub Stats & Most Used Languages** section to display contribution summary and languages used
 - Used custom title for a cleaner and personalized look
 - Maintained consistent theme and layout alignment with other sections
+
+## [v1.5.0] - 2025-10-26
+
+### Added
+- Introduced **GitHub Streak Stats** section to showcase my continuous coding activity streaks.
+- Designed a visually balanced layout matching the existing stats section.
+- Enhanced profile depth by highlighting consistency and contribution patterns.
