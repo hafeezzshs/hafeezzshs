@@ -48,3 +48,10 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 - **Featured Repositories** section showcasing my top projects with interactive **GitHub repo cards** for better profile visibility.
+
+## [v1.4.0] - 2025-10-26
+
+### Added
+- Introduced **GitHub Stats & Most Used Languages** section to display contribution summary and languages used
+- Used custom title for a cleaner and personalized look
+- Maintained consistent theme and layout alignment with other sections
