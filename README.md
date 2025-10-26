@@ -124,3 +124,10 @@
 <a href="https://github.com/hafeezzshs"><img align="center" height="192"  hspace="10" src="https://streak-stats.demolab.com/?user=hafeezzshs&theme=algolia&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=150&ring=F8E30E&sideLabels=FF5B5B&dates=F9F9F9&currStreakNum=26C6EB&fire=EB8506&sideNums=EBEBEB&disable_animations=false" alt="github-streak-stats"></a>
 
 </div>
+
+---
+
+<!-- <h2 align="center">📈 My Contribution Activity (Last 31 Days)</h2> -->
+
+<div align="center">
+  <a href="https://github.com/hafeezzshs"><img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=hafeezzshs&bg_color=000000&color=ffffff&line=00ff37&point=f9010e&area=true&hide_border=false&area_color=ffffff&custom_title=%F0%9F%93%88%20My%20Contribution%20Activity%20(Last%2031%20Days)" alt="contribution-activity"></a></div>
