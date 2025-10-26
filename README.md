@@ -114,3 +114,13 @@
 <i>**Note:** Most used languages represent the breakdown of my public repositories and do not necessarily indicate my skill level or experience.</i>
 
 </div>
+
+---
+
+<h2 align="center">🔥 My GitHub Streak Stats</h2>
+
+<div align="center">
+
+<a href="https://github.com/hafeezzshs"><img align="center" height="192"  hspace="10" src="https://streak-stats.demolab.com/?user=hafeezzshs&theme=algolia&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=150&ring=F8E30E&sideLabels=FF5B5B&dates=F9F9F9&currStreakNum=26C6EB&fire=EB8506&sideNums=EBEBEB&disable_animations=false" alt="github-streak-stats"></a>
+
+</div>
