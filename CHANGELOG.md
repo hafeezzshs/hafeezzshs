@@ -62,3 +62,10 @@ All notable changes to this project will be documented in this file.
 - Introduced **GitHub Streak Stats** section to showcase my continuous coding activity streaks.
 - Designed a visually balanced layout matching the existing stats section.
 - Enhanced profile depth by highlighting consistency and contribution patterns.
+
+## [v1.6.0] - 2025-10-26
+
+### Added
+- Added **Contribution Graph** section to visualize recent activity.
+- Customized layout to display the last 31 days of contributions clearly.
+- Improved overall profile structure with consistent section spacing and flow.
