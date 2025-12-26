@@ -69,3 +69,8 @@ All notable changes to this project will be documented in this file.
 - Added **Contribution Graph** section to visualize recent activity.
 - Customized layout to display the last 31 days of contributions clearly.
 - Improved overall profile structure with consistent section spacing and flow.
+
+## [v1.6.1] - 2025-12-26
+
+### Changed
+- Self-hosted GitHub profile widgets (stats, languages, streak, activity) on personal Vercel deployments to improve reliability and reduce rate-limit issues
