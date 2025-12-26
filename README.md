@@ -88,8 +88,8 @@
 
 <div align="center">
 
-<a href="https://github.com/hafeezzshs/devops-journey"><img align="center" width="355" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=hafeezzshs&repo=devops-journey&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="devops-journey"></a>
-<a href="https://github.com/hafeezzshs/aws-ci-cd-pipeline"><img align="center" width="355" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=hafeezzshs&repo=aws-ci-cd-pipeline&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="aws-ci-cd-pipeline"></a>
+<a href="https://github.com/hafeezzshs/devops-journey"><img align="center" width="355" hspace="10" src="https://github-readme-stats-hafeezzshs.vercel.app/api/pin/?username=hafeezzshs&repo=devops-journey&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="devops-journey"></a>
+<a href="https://github.com/hafeezzshs/aws-ci-cd-pipeline"><img align="center" width="355" hspace="10" src="https://github-readme-stats-hafeezzshs.vercel.app/api/pin/?username=hafeezzshs&repo=aws-ci-cd-pipeline&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="aws-ci-cd-pipeline"></a>
 
 </div>
 
@@ -97,8 +97,8 @@
 
 <div align="center">
 
-<a href="https://github.com/hafeezzshs/devops-ci-cd-projects"><img align="center" width="355" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=hafeezzshs&repo=devops-ci-cd-projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="devops-ci-cd-projects"></a>
-<a href="https://github.com/hafeezzshs/k8s-eks-2048-app"><img align="center" width="355" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=hafeezzshs&repo=k8s-eks-2048-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="k8s-eks-2048-app"></a>
+<a href="https://github.com/hafeezzshs/devops-ci-cd-projects"><img align="center" width="355" hspace="10" src="https://github-readme-stats-hafeezzshs.vercel.app/api/pin/?username=hafeezzshs&repo=devops-ci-cd-projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="devops-ci-cd-projects"></a>
+<a href="https://github.com/hafeezzshs/k8s-eks-2048-app"><img align="center" width="355" hspace="10" src="https://github-readme-stats-hafeezzshs.vercel.app/api/pin/?username=hafeezzshs&repo=k8s-eks-2048-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="k8s-eks-2048-app"></a>
 
 </div>
 
@@ -108,8 +108,8 @@
 
 <div align="center">
 
-<a href="https://github.com/hafeezzshs"><img align="center" height="192"  hspace="10" src="https://github-readme-stats.vercel.app/api?username=hafeezzshs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=true&custom_title=My%20GitHub%20Profile%20Stats" alt="github-stats"></a>
-<a href="https://github.com/hafeezzshs"><img align="center" height="192" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafeezzshs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&layout=compact&langs_count=10" alt="most-used-languages"></a>
+<a href="https://github.com/hafeezzshs"><img align="center" height="192"  hspace="10" src="https://github-readme-stats-hafeezzshs.vercel.app/api?username=hafeezzshs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=true&custom_title=My%20GitHub%20Profile%20Stats" alt="github-stats"></a>
+<a href="https://github.com/hafeezzshs"><img align="center" height="192" hspace="10" src="https://github-readme-stats-hafeezzshs.vercel.app/api/top-langs?username=hafeezzshs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&layout=compact&langs_count=10" alt="most-used-languages"></a>
 
 <i>**Note:** Most used languages represent the breakdown of my public repositories and do not necessarily indicate my skill level or experience.</i>
 
